@@ -1,6 +1,6 @@
 # 🚀 DynoCollect: AI-Powered Data Collection Revolution
 
-<div align="center">
+<div align="center"> 
 
 ![DynoCollect Logo](https://img.shields.io/badge/DynoCollect-Multi%20Format%20Collection-blue?style=for-the-badge&logo=database&logoColor=white)
 
